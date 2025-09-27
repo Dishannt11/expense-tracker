@@ -1,0 +1,5 @@
+{
+  "name": "Student Dashboard: Expense &amp; Task Manager",
+  "description": "A comprehensive web application for students to track expenses, manage daily tasks, create summaries, schedule exam preparations, and use a built-in calculator. All data is saved locally for persistence.",
+  "requestFramePermissions": []
+}
